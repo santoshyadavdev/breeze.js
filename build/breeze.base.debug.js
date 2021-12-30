@@ -543,7 +543,7 @@ function __durationToSeconds(duration) {
 function __noop() {
   // does nothing
 }
-
+  
 function __identity(x) {
   return x;
 }
